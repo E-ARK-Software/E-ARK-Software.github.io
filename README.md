@@ -1,3 +1,5 @@
+<base target="_blank">
+
 # E-ARK-Software.github.io
 Background and context for the E-ARK Software projects
 
