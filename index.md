@@ -14,7 +14,14 @@ The validation core component implements validation rules defined by E-ARK speci
 
 - Get the [application](https://github.com/E-ARK-Software/py-e-ark-ip-validator)
 
-## Application 2
+## E-ARK Web
 
+E-ARK Web is a software for the creation and management of archival information packages, and it supports full-text search for individual files contained in them.
 
-## Application 3
+- Get the [application](https://github.com/E-ARK-Software/earkweb)
+
+## eatb
+
+The archiving tool box is a suite of tools for the creation of information packages for archival purposes.
+
+- Get the [application](https://github.com/E-ARK-Software/eatb)
