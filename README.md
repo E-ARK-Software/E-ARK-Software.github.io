@@ -3,4 +3,4 @@
 # E-ARK-Software.github.io
 Background and context for the E-ARK Software projects
 
-This repository is just for creating [https://github.com/E-ARK-Software.github.io](https://github.com/E-ARK-Software.github.io) site
+This repository is just for creating [https://e-ark-software.github.io/](https://e-ark-software.github.io/) site
