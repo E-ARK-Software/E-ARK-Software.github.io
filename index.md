@@ -12,7 +12,14 @@ Core package and command line utility for E-ARK Information Package validation.
 
 The validation core component implements validation rules defined by E-ARK specifications which can be found on the website of the Digital Information LifeCycle Interoperability Standards Board (DILCIS Board):
 
-- Get the [application](https://github.com/E-ARK-Software/py-e-ark-ip-validator)
+- Get the [application](https://github.com/E-ARK-Software/py-eark-ip-validator)
+
+## Commons-IP
+
+Command-line interface and Java library to validate and manipulate E-ARK IP (SIP, AIP and DIP).
+
+- Get the [application](https://keeps.github.io/commons-ip/)
+
 
 ## E-ARK Web
 
